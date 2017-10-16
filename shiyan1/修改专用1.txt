@@ -1,1 +1,5 @@
-ÐÞ¸Ä1  what the fuck?
+<<<<<<< HEAD
+ÐÞ¸Ä1 add
+=======
+ÐÞ¸Ä1 addsomething
+>>>>>>> C4

@@ -1,2 +1,5 @@
-in the important development trends of services in
-what the fuck?
+<<<<<<< HEAD
+in the important development trends of services inadd
+=======
+in the important development trends of services inaddsomething
+>>>>>>> C4
